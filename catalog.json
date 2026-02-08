@@ -931,6 +931,40 @@
         "hash": "0x74853a44c638e168d31015483bbedd6e65179d62b7694d5c641fa5f3e73697ce",
         "result": "0x225458f79d77c2427ecdc7c90953fd7053ef5a001b3929b0283415218e7e3a846c9ad855cc18f164528d2be45f3b5ab9c079e4f4087fbb6f8ee22647f840f3dd1c"
       }
+    },
+    {
+      "image": {
+        "hash": "4b9b6ece57ef9b403878334dfbb1a2018e69979125adb359698d216dc2826be4",
+        "ext": "png",
+        "urls": [
+          {
+            "protocol": "ipfs",
+            "url": "bafybeidwmlka7raknqd7jsln6w3ufu6nkqw2a4a3jiu5k67q6bnxql7fei"
+          },
+          {
+            "protocol": "ar",
+            "url": "p2R8nzaRzElpRHtPjj76albtdea0ij-yy3FapK5k1Qs"
+          }
+        ]
+      },
+      "animation_url": {
+        "hash": "a9711d5a46e25f62940cee0bdd3ec77e5931fe631e6d20bc7ffe80d8a359d13f",
+        "ext": "mp4",
+        "urls": [
+          {
+            "protocol": "ipfs",
+            "url": "bafybeidlwfyqgr5dppwi7cvzaqyuzpm6pdehmz5uaca3gy2c34jax7b7ja"
+          },
+          {
+            "protocol": "ar",
+            "url": "fZQCpnXG8R4BXhqi9dRWncgGE_Maqx_ZClPGsRIhqI0"
+          }
+        ]
+      },
+      "signature": {
+        "hash": "0xeb41e923d553662b08db59802d5b9570c016ea3c33e18445d5df8bfe28462a62",
+        "result": "0x0a847f2242d0575dcb5b3b7763b6c109a7a628a6f8c91d8f9d749d76c7f0ab022b461254b58490917181f2f3c21a12724172c6e9cd832ac45e1f08e069e92b8a1c"
+      }
     }
   ]
 }
