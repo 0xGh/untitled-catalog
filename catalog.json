@@ -965,6 +965,40 @@
         "hash": "0xeb41e923d553662b08db59802d5b9570c016ea3c33e18445d5df8bfe28462a62",
         "result": "0x0a847f2242d0575dcb5b3b7763b6c109a7a628a6f8c91d8f9d749d76c7f0ab022b461254b58490917181f2f3c21a12724172c6e9cd832ac45e1f08e069e92b8a1c"
       }
+    },
+    {
+      "image": {
+        "hash": "2587d9edec0969e279f07c99ebbac71ba3c6e102c88dc20e040c85997fe7e0c7",
+        "ext": "png",
+        "urls": [
+          {
+            "protocol": "ipfs",
+            "url": "bafybeiaerwlclrjumhd2ctes5f4ojbdoktadg74xjfvi7ayzxarlpj6j2e"
+          },
+          {
+            "protocol": "ar",
+            "url": "hCcUidmp2wTdE9v_0DZZroi_L8ersMKO7psk3z76ojQ"
+          }
+        ]
+      },
+      "animation_url": {
+        "hash": "80c8bd96389536ab82c96fa4d991e8483c7c39a102dd4c0014469ceeaf92d291",
+        "ext": "mp4",
+        "urls": [
+          {
+            "protocol": "ipfs",
+            "url": "bafybeib2apvbebjw3sdy3m4vm5lcqtli6ognsoagls7hmcthyjbuj5j5py"
+          },
+          {
+            "protocol": "ar",
+            "url": "r6T1AmgvjBPvM5Mgq8GIBfHW9cBTPxBh6-WwZtSUnMI"
+          }
+        ]
+      },
+      "signature": {
+        "hash": "0x6a42dc6865d293c8d81843eaff11a816c3ce32ddb6359b9195952e360c014324",
+        "result": "0x9f53202490206d4fa9592a8fd5200379b1ebaec39500028aee77978234ceca5427ea533342dc2de62d13bf2950396e3e0b4395746235a89857d09a88d5443c481b"
+      }
     }
   ]
 }
